@@ -7,8 +7,10 @@ This project focuses on classifying waste materials into two categories: **Organ
 ## Features
 **- Data Collection:**
   Data is taken from kaggle. The link is a s follows: https://www.kaggle.com/datasets/techsash/waste-classification-data/data
+  
 **- Data Preprocessing:**
   Efficiently loaded and labeled image data from structured folders (TRAIN\O and TRAIN\R). Applied a mapping function to enhance label clarity.  
+  
 **- Visualization:** 
   - Static Pie Chart: A visually enhanced pie chart with title, legend, and custom colors for better readability.  
   - Dynamic Pie Chart: Created using Plotly for interactivity, with hover tooltips displaying percentages and labels.  
