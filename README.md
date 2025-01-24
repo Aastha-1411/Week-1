@@ -13,7 +13,7 @@ This project focuses on classifying waste materials into two categories: **Organ
   
 **- Visualization:** 
   - Static Pie Chart: A visually enhanced pie chart with title, legend, and custom colors for better readability.  
-  - Dynamic Pie Chart: Created using Plotly for interactivity, with hover tooltips displaying percentages and labels.  
+  - Dynamic Pie Chart: Created using Plotly for interactivity, with hover tooltips displaying percentages and labels. The image of dynamic chart is uploded.
 
 ## Key Improvements  
 - Automated label mapping for scalability and clarity.  
