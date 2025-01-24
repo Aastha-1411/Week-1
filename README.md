@@ -6,7 +6,7 @@ This project focuses on classifying waste materials into two categories: **Organ
 
 ## Features
 **- Data Collection:**
-  Data is taken from kaggle. The link is a s follows: https://www.kaggle.com/datasets/techsash/waste-classification-data/data
+  Dataset is taken from kaggle. The link is a s follows: https://www.kaggle.com/datasets/techsash/waste-classification-data/data
   
 **- Data Preprocessing:**
   Efficiently loaded and labeled image data from structured folders (TRAIN\O and TRAIN\R). Applied a mapping function to enhance label clarity.  
