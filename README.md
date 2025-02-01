@@ -1,7 +1,7 @@
 # Waste Material Classification  
 
 ## Overview  
-This project focuses on classifying waste materials into two categories: **Organic** and **Recyclable**. The dataset is structured into two subfolders, representing the two classes. The project includes data preprocessing, visualization, and the implementation of both static and dynamic visualizations for distribution analysis.  
+This project focuses on building an image classification model using Convolutional Neural Networks (CNNs) to distinguish between recyclable and non-recyclable waste. The dataset was sourced from Kaggle, and the model was trained using TensorFlow/Keras.
 
 ## Week 1
 ## Features
